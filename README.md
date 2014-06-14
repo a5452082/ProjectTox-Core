@@ -18,7 +18,7 @@ Every peer is represented as a [byte string][String] (the public key [Tox ID] of
 **Current build status:** [![Build Status](https://travis-ci.org/irungentoo/ProjectTox-Core.png?branch=master)](https://travis-ci.org/irungentoo/ProjectTox-Core)
 
 
-## Q&A:
+## Q&A.
 
 ### What are your goals of Tox?
 
